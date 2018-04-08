@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.carousel-inner {
+    max-height: 500px;
+}
+
+.carousel-img {
+    /* width: auto;
+    max-height: 500px; */
+}
