@@ -1,6 +1,6 @@
-# Project Title
+# Veterans@VMware
 
-One Paragraph of project description goes here
+This is a parody website. An idea of what a veteran information site could be like for VMware Inc.
 
 ## Getting Started
 
