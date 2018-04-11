@@ -11,11 +11,64 @@ body {
   background-color: #ffffff;
 }
 
+/* Carousel styling */
+
 .carousel-inner {
-    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    max-width: 1500px;
 }
 
 .carousel-img {
-    /* width: auto;
-    max-height: 500px; */
+    max-width: 1400px;
+    margin: 0px;
+}
+
+.carousel-caption {
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    /* color: white; */
+    max-width: 40%;
+    margin-left: 20px;
+    bottom: 50px;
+    left: 16px;
+    text-align: left;
+
+    /* filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.carousel-caption-text {
+    margin: 20px;
+    opacity: 1;
+    color: white;
+}
+
+.carousel-caption h1{
+    opacity: 1;
+}
+
+/* Mission statement styling */
+.mission-statement {
+    margin: 10px;
+    padding: 20px;
+
+}
+
+/* Stories of who we are styling */
+.stories-protrait {
+    border-radius: 75%;
+    width: 275px;
+    height: 275px;
+    margin: auto;
+}
+
+.list-inline-item {
+    margin: 0 60px;
+}
+
+/* Strategic Partners */
+.card-deck {
+
+
 }
