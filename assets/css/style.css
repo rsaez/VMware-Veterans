@@ -48,6 +48,23 @@ body {
     opacity: 1;
 }
 
+/* Training, resources, blog, about, jumbotron styling */
+.container {
+    max-width: 1400px;
+    margin: 0px;
+}
+
+.container-caption {
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    color: white;
+    max-width: 40%;
+    margin-left: 20px;
+    bottom: 50px;
+    left: 16px;
+    text-align: left;
+}
+
 /* Mission statement styling */
 .mission-statement {
     margin: 10px;
