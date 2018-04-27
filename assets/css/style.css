@@ -38,11 +38,7 @@ body {
     /* filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
-.carousel-caption-text {
-    margin: 20px;
-    opacity: 1;
-    color: white;
-}
+
 
 .carousel-caption h1{
     opacity: 1;
